@@ -20,3 +20,17 @@ c:\users\karn\documents\visual studio 2010\Projects\GameLauncher\GameLauncher\ob
 c:\users\karn\documents\visual studio 2010\Projects\GameLauncher\GameLauncher\obj\x86\Release\ResGen.write.1.tlog
 c:\users\karn\documents\visual studio 2010\Projects\GameLauncher\GameLauncher\obj\x86\Release\GameLauncher.exe
 c:\users\karn\documents\visual studio 2010\Projects\GameLauncher\GameLauncher\obj\x86\Release\GameLauncher.pdb
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\obj\x86\Release\GameLauncher.exe
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\obj\x86\Release\GameLauncher.pdb
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\obj\x86\Release\MainWindow.baml
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\obj\x86\Release\MainWindow.g.cs
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\obj\x86\Release\App.g.cs
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\obj\x86\Release\GameLauncher_MarkupCompile.cache
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\obj\x86\Release\GameLauncher.g.resources
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\obj\x86\Release\GameLauncher.Properties.Resources.resources
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\bin\Release\GameLauncher.exe
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\bin\Release\GameLauncher.pdb
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\bin\Release\Ionic.Zip.dll

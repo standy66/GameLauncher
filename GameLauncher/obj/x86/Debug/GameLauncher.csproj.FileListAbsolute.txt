@@ -20,3 +20,16 @@ c:\users\karn\documents\visual studio 2010\Projects\GameLauncher\GameLauncher\bi
 c:\users\karn\documents\visual studio 2010\Projects\GameLauncher\GameLauncher\bin\Debug\gameid.txt
 c:\users\karn\documents\visual studio 2010\Projects\GameLauncher\GameLauncher\bin\Debug\version.txt
 c:\users\karn\documents\visual studio 2010\Projects\GameLauncher\GameLauncher\bin\Debug\Ionic.Zip.dll
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\obj\x86\Debug\GameLauncher.exe
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\obj\x86\Debug\GameLauncher.pdb
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\bin\Debug\GameLauncher.exe
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\bin\Debug\GameLauncher.pdb
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\obj\x86\Debug\MainWindow.baml
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\obj\x86\Debug\MainWindow.g.cs
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\obj\x86\Debug\App.g.cs
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\obj\x86\Debug\GameLauncher_MarkupCompile.cache
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\obj\x86\Debug\GameLauncher.g.resources
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\obj\x86\Debug\GameLauncher.Properties.Resources.resources
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\GameLauncherGit\GameLauncher\obj\x86\Debug\ResGen.write.1.tlog
