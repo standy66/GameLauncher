@@ -1,0 +1,19 @@
+5/25 19:15:18.858  Connecting to Battle.net...
+5/25 19:15:18.908      querying gateway
+5/25 19:15:18.922      searching for the fastest server
+5/25 19:15:19.085      connected to server
+5/25 19:15:19.127  Connected to server 63.240.202.129
+5/25 19:15:19.127      Validating ID
+5/25 19:15:19.127  Checking for the latest version
+5/25 19:15:19.137  connected to server
+5/25 19:15:19.189  connected to server
+5/25 19:15:19.259  connected to server
+5/25 19:15:19.452      client acknowledged
+5/25 19:15:19.452      logon acknowledged
+5/25 19:15:19.452      requesting latest version
+5/25 19:15:20.669      user has latest version
+5/25 19:15:20.669  Get latest battle.net icons
+5/25 19:15:20.669  Returning ping data to server
+5/25 19:15:20.669      Get player profile
+5/25 19:15:27.280  Connected to Battle.net
+5/25 19:52:14.019  Disconnecting from server

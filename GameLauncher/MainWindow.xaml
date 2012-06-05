@@ -1,0 +1,10 @@
+﻿<Window x:Class="GameLauncher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ReCoding Updater" Height="265" Width="525" Closing="Window_Closing" WindowStartupLocation="CenterScreen">
+    <StackPanel Orientation="Vertical" VerticalAlignment="Center">
+        <Image Source="recodlogo.png"/>
+        <ProgressBar Name="progressBar" Height="40"/>
+        <Label Name="updateLabel" HorizontalAlignment="Center">123123</Label>
+    </StackPanel>
+</Window>
