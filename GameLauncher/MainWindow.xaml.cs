@@ -132,17 +132,28 @@ namespace GameLauncher
             else
                 msg = "Патч скачан. Запустить его установку?";
 
-            if (MessageBox.Show(msg, "Recoding Updater", MessageBoxButton.YesNo) == MessageBoxResult.Yes)
+            MessageBoxResult res = MessageBoxResult.Yes;
+
+
+            Dispatcher.Invoke(new MyDelegate(() =>
+            {
+                res = MessageBox.Show(msg, "Recoding Updater", MessageBoxButton.YesNo);
+            }));
+
+
+            if (updateInfo.Type == UpdateType.Regular)
+            {
+                StreamWriter sw = new StreamWriter(new FileStream("version.txt", FileMode.Create));
+                sw.Write(updateInfo.LastPatch);
+                sw.Flush();
+                sw.Close();
+            }
+
+
+            if (res == MessageBoxResult.Yes)
             {
                 if (updateInfo.Type == UpdateType.Regular)
-                {
-                    StreamWriter sw = new StreamWriter(new FileStream("version.txt", FileMode.Create));
-                    sw.Write(updateInfo.LastPatch);
-                    sw.Flush();
-                    sw.Close();
-
                     Process.Start(gameInfo.GameExe);
-                }
                 else
                 {
                     Process p = new Process();
@@ -160,10 +171,13 @@ namespace GameLauncher
                     }
                     else
                     {
-                        MessageBox.Show("Установка патча не удалась. Возможно ваш антивирус блокирует установку. В любом случае попробуйте установить патч вручную из каталога ~tmp.");
+                        Dispatcher.Invoke(new MyDelegate(() =>
+                        {
+                            MessageBox.Show("Установка патча не удалась. Возможно ваш антивирус блокирует установку. В любом случае попробуйте установить патч вручную из каталога ~tmp.");
+                        }));
                     }
                 }
-            } 
+            }
 
             Dispatcher.Invoke(new MyDelegate(() =>
             {

@@ -70,7 +70,7 @@ namespace GameLauncher
                 useBuiltinCredentials = (bool)result["useBuiltInCredentials"];
                 
                 if (useBuiltinCredentials)
-                    Credentials = new NetworkCredential("login", "pass");
+                    Credentials = new NetworkCredential("tracker", "Grimka2012");
                 else
                 {
                     var creds = result["credentials"] as Dictionary<string, object>;

@@ -1,0 +1,11 @@
+{
+	"gameId": "mad_riders",
+	"gameExe": "MadRidersGame_x64.exe",
+	"patchServer": "ftp://91.211.17.87/UPDATES.RECODING",
+	"useBuiltInCredentials": true,
+	"patchSetupExe": "setup.exe",
+	"credentials": {
+		"login": "login",
+		"password": "password"
+	}
+}
